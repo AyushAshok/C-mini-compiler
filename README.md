@@ -2,7 +2,7 @@
 
 ## Prerequisites:
 1) Flex
-2) Bison \n
+2) Bison </br>
 Link to get the latest versions:- https://github.com/lexxmark/winflexbison/releases
 ## Steps to run:
 Name your lexer as lexer.l and parser as parser.y
